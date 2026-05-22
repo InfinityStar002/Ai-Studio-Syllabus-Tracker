@@ -1,0 +1,6 @@
+{
+  "name": "Syllabus Tracker",
+  "description": "Track your syllabus progress with unlimited nesting and modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
